@@ -8,8 +8,7 @@
  
  ![Todo1](https://user-images.githubusercontent.com/66075716/139524247-b131b98d-e872-4ce6-8dfb-73654fe65ace.JPG)
  
- 
-
+ ![Todo3](https://user-images.githubusercontent.com/66075716/139524354-6275a4ed-9bc4-444b-8502-62e5b032b40e.JPG)
 
 
 2. May use Django-REST Framework 
